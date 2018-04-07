@@ -1,0 +1,46 @@
+{
+    "name": "nebulous",
+    "description": "A clean and responsive theme for Ghost CMS.",
+    "demo": "http://www.bensbench.com",
+    "version": "1.0.0",
+    "engines": {
+        "ghost": "^1.0.0"
+    },
+    "license": "MIT",
+    "screenshots": {
+        "desktop": "assets/screenshot-desktop.png",
+        "mobile": "assets/screenshot-mobile.png"
+    },
+    "author": {
+        "name": "Ben Shapiro",
+        "email": "benmshapiro@gmail.com",
+        "url": "http://bensbench.com"
+    },
+    "gpm": {
+        "type": "theme",
+        "categories": [
+            "Minimalist",
+            "Clean",
+            "Minimal",
+            "Personal Blogs",
+            "Responsive"
+        ]
+    },
+    "keywords": [
+        "ghost",
+        "theme",
+        "nebulous",
+        "minimalist",
+        "clean",
+        "blog"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/benmshapiro/nebulous"
+    },
+    "bugs": "https://github.com/benmshapiro/nebulous/issues",
+    "contributors": "https://github.com/benmshapiro/nebulous/graphs/contributors",
+    "config": {
+        "posts_per_page": 4
+    }
+}
